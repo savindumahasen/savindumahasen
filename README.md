@@ -11,9 +11,6 @@ Here are some ideas to get you started:
 🎓 I am graduated from cardiff metropolitan university with 1st class honours degree in software engineering
 📝 Writing educational contents related to Technology and Computer Science on multiple platforms.
 📝 I regularly write on tech-related articles,
-📰 thinknfree.com
-📰 techtips.site
-📧 Reach me out via,
-savinduruhunuhewa@gmail.com
+📧 Reach me out via savinduruhunuhewa@gmail.com
 
 
