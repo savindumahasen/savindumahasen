@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 📚 Currently learning Agentic AI,Generative AI, Mchine Learning and DeepLearning,Java,python,R, Julia and C programming.
 🎓 I am graduated from cardiff metropolitan university with 1st class honours degree in software engineering
 📝 Writing educational contents related to Technology and Computer Science on multiple platforms.
-📝 I regularly write on tech-related articles,
+📝 I regularly write on tech-related articles and doing the research mainly focus on AI and  mathematics,
 📧 Reach me out via savinduruhunuhewa@gmail.com, whatsup number  and mobile- +94 768446011
 
 
